@@ -1,3 +1,8 @@
+---
+header-includes:
+    - \usepackage{tcolorbox}
+---
+
 # Meyers Ti84 Plus Guide
 
 Moin, das hier ist der versprochene Guide zu unserem Taschenrechner - dem `Ti84 Plus`.
@@ -27,7 +32,15 @@ Nach Drücken der `2ND`-Taste erscheint ein Pfeil nach oben im $\rightarrow$_Car
 
 > Beispiel: `2ND` + `ON` aktivieren `OFF`, was den Taschenrechner ausschaltet.
 
-- `ALPHA`: Ähnlich
+- `ALPHA`: Ähnlich wie `2ND` wird `ALPHA` genutzt um alternative Eingaben zu erzielen, hier aber (fast) nur um Buchstaben einzufügen.
+Wird `ALPHA` gedrückt erscheint im $\rightarrow$_Caret_ ein 'A'.
+
+\begin{tcolorbox}
+\underline{Tipp:}
+Mit `2ND` + `ALPHA` wird der 'Alpha-Lock' Modus aktiviert, in dem
+die `ALPHA`-Belegung der gedrückten Taste genutzt wird.
+Um diesen zu deaktivieren drücke erneut `ALPHA`.
+\end{tcolorbox}
 
 \newpage
 
