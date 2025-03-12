@@ -1,16 +1,20 @@
 ---
 header-includes:
+    - \title{Meyers Ti84 Plus Guide}
     - \usepackage{tcolorbox}
 ---
 
-# Meyers Ti84 Plus Guide
+\maketitle
 
+# Intro
 Moin, das hier ist der versprochene Guide zu unserem Taschenrechner - dem `Ti84 Plus`.
+Sollten irgendwelche Begriffe unklar sein oder mit '$\rightarrow$'
 
 # Was wird behandelt?
 
 1. Grundlagen
     1. Wichtige Tasten
+    2. Wichtige Funktionen
 2. Analasys
 3. Analytische Geometrie
 4. Stochastik
